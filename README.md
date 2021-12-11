@@ -1,5 +1,5 @@
 # LOG4J-POC
-LOG4J批量检测工具 -- 红队工具 -- 护网必备 -- Redteam --
+LOG4J漏洞批量检测工具 -- 红队工具 -- 护网必备 -- Redteam --
 
 ### 首先获取Dnslog接口：
 
