@@ -3,7 +3,7 @@ LOG4J漏洞批量检测工具 -- 红队工具 -- 护网必备 -- Redteam --
 
 ### 首先获取Dnslog接口：
 
-#### 流程：注册寻鸣账户 => 点击个人中心 => 获取免费接口 => 复制
+#### 流程：注册[寻鸣](https://xvnming.org.cn)账户 => 点击个人中心 => 获取免费接口 => 复制
 
 ![image-20211211171544226](https://xiaobai-src.oss-cn-hangzhou.aliyuncs.com/Github/LOG4J/2.png)
 
