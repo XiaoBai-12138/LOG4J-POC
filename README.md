@@ -7,6 +7,8 @@ LOG4J漏洞批量检测工具 -- 红队工具 -- 护网必备 -- Redteam --
 
 ![image-20211211171544226](https://xiaobai-src.oss-cn-hangzhou.aliyuncs.com/Github/LOG4J/2.png)
 
+##### PS：如果测试时提示登陆失败，请重新登录寻鸣重新获取接口密钥 别用无痕登录
+
 ### 然后将复制后的密钥替换POC.py中的KEY
 
 ![image-20211211171544226](https://xiaobai-src.oss-cn-hangzhou.aliyuncs.com/Github/LOG4J/3.png)
